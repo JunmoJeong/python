@@ -11,5 +11,6 @@ while count < chance:
     user_input = input("몇 일까요?")
     if number == user_input:
         print("정답")
+        break
     else:
         print("아닙니다.")
