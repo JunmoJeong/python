@@ -12,7 +12,7 @@ for i in range(3):
 so.system("cls")
 # 사용자에게 입력 받는다.
 print("*" * 60)
-print("야구 게임을 싲가합니다.")
+print("야구 게임을 시작합니다.")
 print("*" * 60)
 
 count_strike = 0
